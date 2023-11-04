@@ -8,5 +8,5 @@ Controls:
 
 Compiled with provided Makefile.
 
-<img src="https://i.imgur.com/nEfNGeZ.png"/>
-<img src="https://i.imgur.com/2ED2fBf.png"/>
+<img src="https://i.imgur.com/3nT0JvM.png"/>
+<img src="https://i.imgur.com/XDTezv9.png"/>
