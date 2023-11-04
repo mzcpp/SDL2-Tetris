@@ -7,3 +7,6 @@ Controls:
   - 'c' to cache/restore a tetromino. 
 
 Compiled with provided Makefile.
+
+<img src="https://i.imgur.com/nEfNGeZ.png"/>
+<img src="https://i.imgur.com/2ED2fBf.png"/>
