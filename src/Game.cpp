@@ -152,6 +152,7 @@ void Game::Finalize()
 	font_ = nullptr;
 
 	SDL_Quit();
+	IMG_Quit();
 	TTF_Quit();
 }
 
